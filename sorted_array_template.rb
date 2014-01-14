@@ -28,3 +28,4 @@ class SortedArray
     raise NotImplementedError.new("You need to implement the index method!")
   end
 end
+
